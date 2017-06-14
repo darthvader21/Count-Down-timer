@@ -1,0 +1,18 @@
+body {
+  background-color: #F6DBD5;
+}
+#timer {
+
+  text-align: center;
+  font-size: 60px;
+  margin-top: 30px;
+}
+.wrap {
+  background: white;
+  margin: 0 auto;
+  border: 3px solid black;
+  border-radius: 5px;
+  width: 40%;
+  height: 150px;
+  box-shadow: 10px 10px 5px #888888;
+}
